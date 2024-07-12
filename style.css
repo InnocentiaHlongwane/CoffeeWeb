@@ -91,9 +91,9 @@ box-shadow: rgba(37,39,89,0.08);
 button {
     display: block;
     margin: 20px auto;
-    border: 1px solid #fff;
-    background: #000;
-    color: #fff;
+    border: 1px solid #000;
+    background: #fff;
+    color: #000;
     font-size: 16px;
     line-height: 22px;
     padding: 16px 24px;
@@ -104,12 +104,12 @@ button {
 
 button:hover {
     cursor: pointer;
-    background: #fff;
-    border: 1px solid #000;
-    color: #000;
+    background: #000;
+    border: 1px solid #fff;
+    color: #fff;
 }
  .contact {
-    color: antiquewhite;
+    color: #fff;
     font-size: larger;
  }
 .contacts {
