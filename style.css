@@ -47,13 +47,6 @@ img {
     border: 2px solid #fff;
 } 
 
-img :hover {
-    cursor: grab;
-    background: #fff; 
-    border: 1px solid;
-    color:#000;
-}
-
 .deco {
     display: block;
     margin: 0 auto;
