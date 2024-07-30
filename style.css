@@ -108,3 +108,31 @@ button:hover {
 .contacts {
     background-color:#000 ;
 }
+
+@media (max-width: 900px) {
+    h1 {
+      font-size: 44px;
+      line-height: 1.5;
+    }
+  
+    h2 {
+      font-size: 40px;
+    }
+  
+    h3 {
+      font-size: 26px;
+    }
+
+    .deco {
+        padding:0;
+    }
+
+    .hero {
+      padding: 0;
+    }
+  
+    .contacts {
+      text-align: center;
+      padding: 0;
+    }
+  }
